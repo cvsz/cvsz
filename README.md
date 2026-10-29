@@ -1,48 +1,72 @@
-# Hi, I'm Sea — Building ZEAZDEV
+<div align="center">
 
-**CEO at ZEAZDEV COMPANY LIMITED** · AI Engineering · Cloud Infrastructure · Open Source
+# Sea · ZEAZDEV
 
-I build software, AI systems, developer tools, and infrastructure designed to help individuals and organizations automate complex work, improve reliability, and operate more securely.
+### Engineering intelligent systems. Automating the work that matters.
 
-My focus is on engineering practical systems that combine automation, intelligent agents, distributed computing, security controls, and measurable production readiness.
+**AI Engineering · Cloud Infrastructure · Developer Tools · Automation · Security**
 
-🌐 **Website:** [zeaz.dev](https://zeaz.dev)  
-💻 **GitHub:** [@cvsz](https://github.com/cvsz)  
-📍 **Based in:** Thailand
+[![GitHub](https://img.shields.io/badge/GitHub-@cvsz-181717?style=for-the-badge&logo=github)](https://github.com/cvsz)
+[![Website](https://img.shields.io/badge/Website-zeaz.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zeaz.dev)
+
+</div>
 
 ---
 
-## What I'm Building
+## About
+
+I'm the CEO of **ZEAZDEV COMPANY LIMITED**, focused on building practical software, AI systems, developer tools, and infrastructure.
+
+My engineering interests span intelligent automation, local AI, distributed computing, cloud-native platforms, application security, and dependable software delivery. I value systems that can be tested, observed, reviewed, and improved—not just demonstrated.
+
+## What I Work On
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### AI & Intelligent Automation
-- AI agents and engineering orchestration systems
-- Local AI inference and model integration
-- Automated software development, testing, auditing, and release workflows
-- Knowledge management and reusable engineering intelligence
+- AI agents and engineering orchestration
+- Local model integration and inference
+- Automated development and QA workflows
+- Knowledge systems and reusable engineering context
+
+    </td>
+    <td width="50%" valign="top">
 
 ### Cloud & Infrastructure
-- Cloud-native platforms and self-hosted services
-- Distributed computing and multi-node AI infrastructure
-- Linux, Windows, networking, and deployment automation
-- Reliable service operations, monitoring, and recovery
+- Linux, Windows, WSL2, containers, and Kubernetes
+- Self-hosted services and cloud-native platforms
+- Distributed computing and hardware discovery
+- Monitoring, deployment, and recovery automation
 
-### Security & Engineering Quality
-- Secure-by-default software design
-- Automated code analysis and dependency checks
-- Independent reviews and approval gates
-- Reproducible builds, test evidence, and auditable releases
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-### Developer Tools & Applications
-- Coding assistants and development workflows
-- Desktop automation and Windows integrations
-- APIs, backend platforms, and full-stack applications
-- Open-source tools for practical engineering problems
+### Security & Quality
+- Secure-by-default design and least privilege
+- Static analysis and dependency checks
+- Independent review and explicit release gates
+- Reproducible verification and audit evidence
 
----
+    </td>
+    <td width="50%" valign="top">
+
+### Developer Tools
+- Coding assistants and engineering workflows
+- APIs, backend services, and desktop automation
+- CI/CD, test automation, and maintainable architecture
+- Open-source tools for practical operational problems
+
+    </td>
+  </tr>
+</table>
 
 ## Selected Projects
 
-These repositories represent areas of ongoing engineering work. Features, maturity, and release readiness should be evaluated from each repository's current code, documentation, and CI status.
+These are areas of ongoing work. Check each repository for its current implementation, documentation, CI status, and release readiness.
 
 | Project | Focus |
 |---|---|
@@ -54,68 +78,40 @@ These repositories represent areas of ongoing engineering work. Features, maturi
 | [cme](https://github.com/cvsz/cme) | API and backend platform engineering |
 | [zttato-platform](https://github.com/cvsz/zttato-platform) | TikTok platform integration and developer workflows |
 
-Explore more in the [ZEAZDEV-related repositories](https://github.com/cvsz?tab=repositories).
+[**Browse all repositories →**](https://github.com/cvsz?tab=repositories)
 
----
+## Engineering Principles
 
-## Technology & Engineering Interests
+- **Working software over unsupported claims.** Verify behavior before declaring a feature complete.
+- **Security by design.** Prefer least privilege, safe defaults, and explicit authorization.
+- **Evidence-driven delivery.** Use tests, logs, reviews, and reproducible checks to support decisions.
+- **Automation with guardrails.** Make recurring work consistent, observable, and recoverable.
+- **Continuous improvement.** Invest in reliability, maintainability, documentation, and usability.
 
-**Languages and application development**
-- Python, JavaScript/TypeScript, shell scripting
-- APIs, backend services, and desktop automation
-- Test automation and maintainable software architecture
+## Technology Interests
 
-**Infrastructure and operations**
-- Linux, Windows, WSL2, containers, and Kubernetes
-- Networking, SSH, Cloudflare Tunnel, and self-hosted services
-- CI/CD, deployment validation, observability, and recovery
+`Python` · `TypeScript` · `JavaScript` · `Shell` · `Linux` · `Windows` · `WSL2` · `Docker` · `Kubernetes` · `APIs` · `CI/CD` · `CodeQL` · `Local AI` · `LLM Inference` · `Distributed Systems`
 
-**AI and automation**
-- Local language models and GGUF-based inference
-- AI agents, orchestration, and workflow automation
-- Hardware discovery, benchmarking, and distributed execution
-
-**Security and quality**
-- CodeQL, dependency analysis, and static checks
-- Least privilege and fail-closed behavior
-- Independent review, explicit release gates, and audit evidence
-
-*This is a summary of my engineering interests and working environment, not a claim that every technology is used in every project.*
-
----
-
-## My Engineering Principles
-
-1. **Build for real use.** Prioritize working software over impressive demonstrations.
-2. **Verify before declaring success.** A successful command or passing unit test alone does not prove production readiness.
-3. **Security by design.** Use least privilege, safe defaults, and explicit authorization.
-4. **Automate repeatable work.** Turn recurring manual tasks into testable, observable workflows.
-5. **Keep evidence.** Use test results, logs, review records, and reproducible steps to support engineering decisions.
-6. **Improve continuously.** Refine architecture, reliability, usability, documentation, and maintainability with each iteration.
-
----
+*These are areas of engineering interest and work; not every technology is used in every project.*
 
 ## Open Source & Collaboration
 
-I am interested in practical collaborations involving:
+I'm interested in collaborating on:
 
 - AI engineering and developer productivity
-- Distributed systems and local-first infrastructure
-- Automation, platform engineering, and DevOps
+- Local-first infrastructure and distributed systems
+- Platform engineering, DevOps, and automation
 - Application security and software quality
 - Open-source tools that solve real operational problems
 
-For collaboration, technical discussion, or project contributions, start with the relevant repository's issues and contribution guidelines.
+For technical discussion or contributions, please use the issues and contribution guidelines in the relevant repository.
 
 ---
 
-## Explore My Work
+<div align="center">
 
-- **GitHub profile:** [github.com/cvsz](https://github.com/cvsz)
-- **Repositories:** [Browse all projects](https://github.com/cvsz?tab=repositories)
-- **Organization website:** [zeaz.dev](https://zeaz.dev)
+**Build thoughtfully. Automate responsibly. Verify everything.**
 
----
+[GitHub Profile](https://github.com/cvsz) · [All Repositories](https://github.com/cvsz?tab=repositories) · [ZEAZDEV](https://zeaz.dev)
 
-*Building systems. Automating work. Engineering for reliability and security.*
-
+</div>
