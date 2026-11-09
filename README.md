@@ -1,6 +1,6 @@
 # Hi, I'm Sea 👋
 
-**Bangkok, Thailand** · **Founder & Systems Architect at ZEAZDEV** · **AI-native builder**
+**Bangkok, Thailand** · **Founder & Systems Architect at ZEAZDEV** · **AI-native builder** · **Also known as `seaza`**
 
 I build software and infrastructure that turn complex workflows into reliable systems — from developer agents and local AI to cloud platforms, automation, and security tooling.
 
@@ -101,6 +101,7 @@ These are technologies and areas I work with or explore; individual repositories
 - **LinkedIn:** [Phiphat Phoemsuk](https://www.linkedin.com/in/zeazdev)
 - **ORCID:** [0009-0007-7199-5438](https://orcid.org/0009-0007-7199-5438)
 - **GitHub:** [@cvsz](https://github.com/cvsz)
+- **Other username:** `seaza` (public profile links not yet verified)
 - **ZEAZDEV GitHub Organization:** [ZeaZDev](https://github.com/ZeaZDev)
 - **PyPI:** [zeazdev](https://pypi.org/user/zeazdev/) — package publisher profile
 - **Projects:** [Browse repositories](https://github.com/cvsz?tab=repositories)
