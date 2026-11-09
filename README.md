@@ -6,6 +6,8 @@ I build software and infrastructure that turn complex workflows into reliable sy
 
 [![Website](https://img.shields.io/badge/ZEAZDEV-zeaz.dev-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://zeaz.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-@cvsz-181717?style=flat-square&logo=github)](https://github.com/cvsz)
+[![PyPI](https://img.shields.io/badge/PyPI-zeazdev-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/zeazdev/)
+[![ZEAZDEV](https://img.shields.io/badge/GitHub-ZeaZDev_Org-181717?style=flat-square&logo=github)](https://github.com/ZeaZDev)
 [![Facebook](https://img.shields.io/badge/Facebook-MrCVSz-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/MrCVSz)
 [![YouTube](https://img.shields.io/badge/YouTube-ZEAZVERSE-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ZEAZVERSE)
 [![YouTube](https://img.shields.io/badge/YouTube-Sadwave_Studio-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SadwaveStudio)
@@ -99,6 +101,8 @@ These are technologies and areas I work with or explore; individual repositories
 - **LinkedIn:** [Phiphat Phoemsuk](https://www.linkedin.com/in/zeazdev)
 - **ORCID:** [0009-0007-7199-5438](https://orcid.org/0009-0007-7199-5438)
 - **GitHub:** [@cvsz](https://github.com/cvsz)
+- **ZEAZDEV GitHub Organization:** [ZeaZDev](https://github.com/ZeaZDev)
+- **PyPI:** [zeazdev](https://pypi.org/user/zeazdev/) — package publisher profile
 - **Projects:** [Browse repositories](https://github.com/cvsz?tab=repositories)
 
 ---
